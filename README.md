@@ -5,7 +5,7 @@ This project is an IoT-based greenhouse monitoring system implemented using ESP8
 ### Features
 - Real-time monitoring of soil moisture, CO2 levels, temperature, humidity, and light levels.
 - Automatic control of water pump based on soil moisture level.
-- Automatic control of a bulb based on ambient light levels.
+- Automatic control of a bulb based on light levels.
 - Remote monitoring and control via the Blynk mobile app.
 
 ### Components Used
