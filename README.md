@@ -1,5 +1,4 @@
 # Green-House-Monitoring-System 🥦
-# Greenhouse Monitoring System
 
 ![Greenhouse Monitoring System](/Images%20and%20Demonstration%20Video/test.jpg)
 
