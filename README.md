@@ -22,7 +22,7 @@ This project is an IoT-based greenhouse monitoring system implemented using ESP8
 - Relay module for controlling the bulb
 - Water pump
 
-[https://AvishkaVishwa.github.io/Green-House-Monitoring-System/](https://avishkavishwa.github.io/Green-House-Monitoring-System/)
+[Watch the video here](https://your-username.github.io/your-repository-name/)
 
 
 ## System Overview
