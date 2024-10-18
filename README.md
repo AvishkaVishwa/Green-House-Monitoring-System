@@ -1,7 +1,5 @@
 # Green-House-Monitoring-System 🥦
-The video importing code in your README file is correct. However, you can use a more standard markdown syntax for embedding the video link. Here is the rewritten markdown content:
 
-```markdown
 This project is an IoT-based greenhouse monitoring system implemented using ESP8266, Blynk, and various sensors. It monitors soil moisture, CO2 levels, temperature, humidity, and light levels in a greenhouse environment. The system controls a water pump and a relay for turning on/off a bulb based on the sensor readings.
 
 <img src="/Images and Demonstration Video/test.jpg">
@@ -26,7 +24,7 @@ This project is an IoT-based greenhouse monitoring system implemented using ESP8
 
 ## Video Demonstration
 
-[![Video Demonstration](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/AvishkaVishwa/Green-House-Monitoring-System/blob/main/Images%20and%20Demonstration%20Video/testing%20final%20phase.mp4)
+https://github.com/AvishkaVishwa/Green-House-Monitoring-System/blob/main/Images%20and%20Demonstration%20Video/testing%20final%20phase.mp4
 
 ## System Overview
 
@@ -56,6 +54,6 @@ The system also displays the readings on an OLED display for local monitoring wi
 - Addition of a fan system for temperature control.
 - Integration of a pH sensor for soil quality monitoring.
 - Expansion to support multiple greenhouses.
-```
 
-Replace `VIDEO_ID` with the actual ID of the video if you have a YouTube link, otherwise, the current link should work as is.
+
+[testPhaseVideo]: https://github.com/AvishkaVishwa/Green-House-Monitoring-System/raw/main/testing%20final%20phase.mp4
