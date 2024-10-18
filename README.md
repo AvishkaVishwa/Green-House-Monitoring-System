@@ -50,6 +50,4 @@ The system also displays the readings on an OLED display for local monitoring wi
 - Integration of a pH sensor for soil quality monitoring.
 - Expansion to support multiple greenhouses.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
