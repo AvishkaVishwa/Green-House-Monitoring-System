@@ -22,7 +22,9 @@ This project is an IoT-based greenhouse monitoring system implemented using ESP8
 - Water pump
 
 ## Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](testing final phase.mp4)
+
+https://github.com/AvishkaVishwa/Green-House-Monitoring-System/main/demo.mp4
+
 
 ## System Overview
 
