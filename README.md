@@ -1,5 +1,5 @@
 # Green-House-Monitoring-System
-<img src="soldaring.png"
+<img src="soldaring.jpg">
 This project is an IoT-based greenhouse monitoring system implemented using ESP8266, Blynk, and various sensors. It monitors soil moisture, CO2 levels, temperature, humidity, and ambient light levels in a greenhouse environment. The system controls a water pump and a relay for turning on/off a bulb based on the sensor readings.
 
 ### Features
