@@ -21,14 +21,8 @@ This project is an IoT-based greenhouse monitoring system implemented using ESP8
 - OLED display for local data display
 - Relay module for controlling the bulb
 - Water pump
-<html>
-<body>
-<video width="320" height="240" controls>
-  <source src="http://Green-House-Monitoring-System/Images and Demonstration Video/testing final phase.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</body>
-</html>
+
+https://AvishkaVishwa.github.io/Green-House-Monitoring-System/
 
 
 ## System Overview
