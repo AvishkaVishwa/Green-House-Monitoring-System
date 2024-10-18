@@ -2,7 +2,7 @@
 
 This project is an IoT-based greenhouse monitoring system implemented using ESP8266, Blynk, and various sensors. It monitors soil moisture, CO2 levels, temperature, humidity, and light levels in a greenhouse environment. The system controls a water pump and a relay for turning on/off a bulb based on the sensor readings.
 
-<img src="test.jpg">
+<img src="/Images and Demonstration Video/test.jpg">
 
 ## Features
 
@@ -24,7 +24,7 @@ This project is an IoT-based greenhouse monitoring system implemented using ESP8
 
 ## Video Demonstration
 
-[Video Demonstration](https://github.com/AvishkaVishwa/Green-House-Monitoring-System/raw/main/testing%20final%20phase.mp4)
+[Video Demonstration][testPhaseVideo]
 
 ## System Overview
 
@@ -54,3 +54,6 @@ The system also displays the readings on an OLED display for local monitoring wi
 - Addition of a fan system for temperature control.
 - Integration of a pH sensor for soil quality monitoring.
 - Expansion to support multiple greenhouses.
+
+
+[testPhaseVideo]: https://github.com/AvishkaVishwa/Green-House-Monitoring-System/raw/main/testing%20final%20phase.mp4
