@@ -21,6 +21,10 @@ This project is an IoT-based greenhouse monitoring system implemented using ESP8
 - Relay module for controlling the bulb
 - Water pump
 
+## Video Demonstration
+
+[![Watch the video]()
+
 ## System Overview
 
 The system collects data from various sensors and sends it to the Blynk mobile app for real-time monitoring. Based on the sensor values:
