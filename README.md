@@ -23,7 +23,7 @@ This project is an IoT-based greenhouse monitoring system implemented using ESP8
 
 ## Video Demonstration
 
-[![Watch the video]()
+[![Watch the video](testing final phase.mp4)
 
 ## System Overview
 
